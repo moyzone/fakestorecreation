@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/fakestorecreation/static/js/main.14732f25.chunk.js",
-    "main.js.map": "/fakestorecreation/static/js/main.14732f25.chunk.js.map",
+    "main.js": "/fakestorecreation/static/js/main.5107a811.chunk.js",
+    "main.js.map": "/fakestorecreation/static/js/main.5107a811.chunk.js.map",
     "runtime-main.js": "/fakestorecreation/static/js/runtime-main.f196ea81.js",
     "runtime-main.js.map": "/fakestorecreation/static/js/runtime-main.f196ea81.js.map",
     "static/js/2.49fe6573.chunk.js": "/fakestorecreation/static/js/2.49fe6573.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.f196ea81.js",
     "static/js/2.49fe6573.chunk.js",
-    "static/js/main.14732f25.chunk.js"
+    "static/js/main.5107a811.chunk.js"
   ]
 }
