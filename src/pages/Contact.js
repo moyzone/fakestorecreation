@@ -42,7 +42,7 @@ const Contact = () => {
       </SocialMedia>
       <ContactInfo>
         <p>FakeStore</p>
-        <p>Rodeo Drive 42, Los Angeles USA</p>
+        <p>New hills Guwahati,Assam</p>
       </ContactInfo>
     </ContactWrapper>
   )
@@ -56,7 +56,7 @@ const ContactWrapper = styled.div`
   margin-top: 14rem;
   margin-bottom: 26.5rem;
 
-  animation: fadeIn ease 2s;
+  animation: fadeIn ease 4s;
 
   @keyframes fadeIn {
     0% {

@@ -51,7 +51,7 @@ const Message = styled.div`
   flex-direction: column;
   width: 50rem;
 
-  animation: fadeIn ease 2s;
+  animation: fadeIn ease 6s;
 
   @keyframes fadeIn {
     0% {
